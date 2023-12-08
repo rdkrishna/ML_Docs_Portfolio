@@ -21,3 +21,4 @@ List of files:
 
 8. **spam_classifier_Logistic_Regression.ipynb** --> Model to Classify email as spam or non-spam emails.
 
+9. **Image_classifier_Using_ANN_cats_vs_noncats.ipynb** --> Model to Classify Images between Cats and Not-Cat Images using Artificial Neural Network (ANN) Techniques and sigmoid function.
