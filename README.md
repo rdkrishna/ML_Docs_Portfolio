@@ -23,5 +23,6 @@ List of files:
 
 9. **Image_classifier_Using_ANN_cats_vs_noncats.ipynb** --> Model to Classify Images between Cats and Not-Cat Images using Artificial Neural Network (ANN) Techniques and sigmoid function.
 10. a. **building_an_image_classifier_MNIST_Fashion_ANN.ipynb** --> Artificial Neural Network (ANN) Model using Tensorflow and Keras to classify MNIST Fashion Item.
+
     b. **building_a_cnn_classifier_using_tensorflow_2_for_mnist_fashion_dataset.ipynb** --> Artificial Neural Network (ANN) Model using Tensorflow and Keras to classify MNIST Fashion Item.
-11. **building_an_image_classifier_reusing_pretrained_layers.ipynb** --> Image Classifier built using pretrained layers (Transfer Learning)
+12. **building_an_image_classifier_reusing_pretrained_layers.ipynb** --> Image Classifier built using pretrained layers (Transfer Learning)
